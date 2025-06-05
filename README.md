@@ -17,6 +17,14 @@ TouchDesigner 연습 저장소
 ### **미리보기**
 ![02](https://github.com/user-attachments/assets/3fe53094-c2f4-415e-9d13-71476115bff0)
 
+## pattern_03
+- 영상의 명암 level에 따라 실시간으로 3D 파동 인터렉션 구현
+
+## pattern_04
+- 마이크 입력 음성 저주파만 추출
+- 소리 dB에 따라 인터렉션 화면 변화
+- 다중 마이크 지원
+
 
 
 
